@@ -1,29 +1,67 @@
-<h1 align="center">Hi 👋, I'm Sujit K Jadhav</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujit1043&label=Profile%20views&color=0e75b6&style=flat" alt="sujit1043" /> </p>
+# ⚙️ Sujit Jadhav – DevOps Enthusiast  
 
+**"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."**  
+— Sir M. Visvesvaraya  
 
-- 🌱 I’m currently learning **React,Spring boot**
+Welcome to **VisvesvarayaOps**, a **DevOps Engineering** repository driven by automation, scalability, and continuous integration. Inspired by **Sir M. Visvesvaraya**, this repo focuses on **cloud infrastructure, CI/CD pipelines, containerization, and monitoring solutions**.  
 
-- 💬 Ask me about **react,Java**
+My mission is to **contribute to open-source** and engage in **major projects that drive innovation** in software delivery and infrastructure automation.
 
-- 📫 How to reach me **sujitj475@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sujit-jadhav-016253256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujit-jadhav-016253256" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sujitj475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sujitj475" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://github.com/Sujit1043/Calculator.github.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**🖥️ Platforms & Tools:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sujit1043"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sujit1043" /></a></p><br><br>
+**☁️ Cloud Providers:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit1043&show_icons=true&locale=en&layout=compact" alt="sujit1043" /></p>
+**📦 Monitoring & Logging:**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujit1043&show_icons=true&locale=en" alt="sujit1043" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujit1043&" alt="sujit1043" /></p>
+## 🚀 Key Skills  
+
+✅ Cloud-native DevOps solutions  
+✅ CI/CD Pipelines with Jenkins & GitHub Actions  
+✅ Infrastructure-as-Code using Terraform and Ansible  
+✅ Docker & Kubernetes orchestration  
+✅ Monitoring and observability (Prometheus, Grafana, ELK)  
+✅ Open-source contributions to tools and automation  
+
+---
+
+## 📌 Goals  
+
+🔹 Collaborate on **large-scale, production-ready DevOps pipelines**  
+🔹 Make **significant contributions** to open-source DevOps tools and automation frameworks  
+🔹 Help teams deliver faster, safer, and more scalable applications  
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tambe-nitin&show_icons=true&theme=tokyonight)
+
+---
+
+## 📊 Top Languages  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tambe-nitin&layout=compact&theme=tokyonight)
+
+---
+
+![DevOps GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
